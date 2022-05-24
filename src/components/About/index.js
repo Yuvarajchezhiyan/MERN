@@ -33,17 +33,18 @@ const About = () => {
             />
           </h1>
           <p>
-            Hey I am Manoj and this is my first MERN Web Development project!!
+             I am Yuvarajan.This is my first PROJECT OF MERN!
           </p>
           <p align="LEFT">
-            I am Pursuing my Engineering degree on Information Science and Engineering branch at 
+            I am Studying my B.E- Information Science and Engineering branch at 
             Bannari Amman Institute of Technology.
+            I am Learning Game Developing at Present.
           </p>
           <p>
             Mr.Sambitraze Such a great person who thought very well about MERN in very short time period.
           </p>
           <p>
-            Thank You.
+            My heartly Thankful to you Sir!
           </p>
         </div>
 

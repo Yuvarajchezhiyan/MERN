@@ -8,7 +8,7 @@ import './index.scss'
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const nameArray = ['M','A','N','O','J']
+  const nameArray = ['Y','U','V','A','R','A','J','A','N']
   const jobArray = [
     'w',
     'e',
@@ -57,7 +57,7 @@ const Home = () => {
               idx={22}
             />
           </h1>
-          <h2>MANOJ KUMAR | MERN Stack</h2>
+          <h2>YUVARAJAN | MERN Stack</h2>
           <Link to="/contact" className="flat-button">
             TALK TO ME
           </Link>

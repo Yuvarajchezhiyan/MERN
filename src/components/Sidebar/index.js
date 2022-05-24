@@ -36,16 +36,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/farooq-ahamed-543aa91b4/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://github.com/Manoj2403"
+            href="https://github.com/Yuvarajchezhiyan"
             target="_blank"
             rel="noreferrer"
           >
@@ -62,5 +53,4 @@ const Sidebar = () => {
     </div>
   )
 }
-
 export default Sidebar

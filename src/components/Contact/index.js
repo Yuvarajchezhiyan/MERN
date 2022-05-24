@@ -85,10 +85,13 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Manoj,
+          Yuvarajan,
           <br />
           Bannari Amman Institute of Technology,
           <br />
+          <br>
+          Alathukombai,
+          </br>
           Sathyamangalam,   
           <br />
           Erode, 638402, <br />
